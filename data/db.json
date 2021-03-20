@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Star Wars",
+      "body": "May the FORCE be with you!!!!",
+      "author": "Ahmad",
+      "id": 1
+    }
+  ]
+}
